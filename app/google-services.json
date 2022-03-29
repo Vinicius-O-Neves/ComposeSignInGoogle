@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887476891831",
+    "project_id": "testecompose",
+    "storage_bucket": "testecompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887476891831:android:fa5b8dec8acbfcf04b5d32",
+        "android_client_info": {
+          "package_name": "app.dealux.composefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887476891831-he0vrdun6smqa9elqt4d07elbf5iuto3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDggEiq4VsbX2aJrTeVt8LeSS_y7J1DT98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887476891831-he0vrdun6smqa9elqt4d07elbf5iuto3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
